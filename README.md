@@ -2,13 +2,13 @@
 
 
 
-yones1@gmail.com
-4251360!Y
+email:yones1@gmail.com 
+pass:4251360!Y
 superadmin
 ////////
 user
-yonesnami1@gmail.com
-4251360
+email:yonesnami1@gmail.com
+pass:4251360
 
 
 
